@@ -3,12 +3,17 @@
   "version": "0.1.0",
   "private": true,
   "scripts": {
-    "serve": "vue-cli-service serve",
+    "serve": "vue-cli-service serve --host 192.168.0.120",
     "build": "vue-cli-service build",
     "lint": "vue-cli-service lint"
   },
   "dependencies": {
+    "@antv/x6": "^1.24.5",
+    "@antv/x6-vue-shape": "^1.2.8",
+    "@vue/composition-api": "^1.0.0-rc.14",
     "core-js": "^3.6.5",
+    "element-ui": "^2.15.3",
+    "insert-css": "^2.0.0",
     "vue": "^2.6.11",
     "vue-router": "^3.2.0",
     "vuex": "^3.4.0"

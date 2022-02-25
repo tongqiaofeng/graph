@@ -1,0 +1,86 @@
+{
+  "id": "2670865",
+  "name": "tuo",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "11984494",
+      "name": "直线度",
+      "font_class": "zhixiandu",
+      "unicode": "e62e",
+      "unicode_decimal": 58926
+    },
+    {
+      "icon_id": "19050863",
+      "name": "直线箭头",
+      "font_class": "zhixianjiantou1",
+      "unicode": "e63a",
+      "unicode_decimal": 58938
+    },
+    {
+      "icon_id": "19822079",
+      "name": "保存 存储",
+      "font_class": "baocuncunchu",
+      "unicode": "e64e",
+      "unicode_decimal": 58958
+    },
+    {
+      "icon_id": "21459853",
+      "name": "删 除",
+      "font_class": "shanchu",
+      "unicode": "e626",
+      "unicode_decimal": 58918
+    },
+    {
+      "icon_id": "14661160",
+      "name": "曲线箭头",
+      "font_class": "quxianjiantou",
+      "unicode": "e616",
+      "unicode_decimal": 58902
+    },
+    {
+      "icon_id": "17714618",
+      "name": "直线箭头",
+      "font_class": "zhixianjiantou",
+      "unicode": "e638",
+      "unicode_decimal": 58936
+    },
+    {
+      "icon_id": "21913017",
+      "name": "手机",
+      "font_class": "shouji",
+      "unicode": "e602",
+      "unicode_decimal": 58882
+    },
+    {
+      "icon_id": "8165446",
+      "name": "正方形",
+      "font_class": "zhengfangxing",
+      "unicode": "e613",
+      "unicode_decimal": 58899
+    },
+    {
+      "icon_id": "18452758",
+      "name": "菱形 2",
+      "font_class": "lingxing2",
+      "unicode": "e686",
+      "unicode_decimal": 59014
+    },
+    {
+      "icon_id": "19453431",
+      "name": "圆形",
+      "font_class": "yuanxing",
+      "unicode": "e650",
+      "unicode_decimal": 58960
+    },
+    {
+      "icon_id": "19740246",
+      "name": "用户",
+      "font_class": "yonghu",
+      "unicode": "e600",
+      "unicode_decimal": 58880
+    }
+  ]
+}
